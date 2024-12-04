@@ -1,16 +1,8 @@
-# yet-another-pure-rust-extension-pack README
+# Yet Another Pure Rust Extension Pack
 
-## Working with Markdown
+## Extensions
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+* **CodeLLDB**: Provides debugging support for Rust and C++ in VSCode using LLDB. [GitHub](https://github.com/vadimcn/codelldb)
+* **Dependi**: Simplifies dependency management across multiple languages, including Rust, with version insights and vulnerability checks. [GitHub](https://github.com/filllabs/dependi)
+* **Even Better TOML**: Adds syntax highlighting and IntelliSense for TOML files, improving Rust configuration editing. [GitHub](https://github.com/tamasfe/taplo)
+* **Rust Analyzer**: A powerful language server for Rust, offering real-time diagnostics, code navigation, and completion. [GitHub](https://github.com/rust-lang/rust-analyzer)

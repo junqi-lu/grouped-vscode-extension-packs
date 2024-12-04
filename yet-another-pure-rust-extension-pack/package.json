@@ -3,6 +3,8 @@
   "displayName": "Yet Another Pure Rust Extension Pack",
   "description": "A pure extension pack for rust",
   "version": "0.0.1",
+  "icon": "images/file-type-rust-toolchain.png",
+  "publisher": "junqi-lu",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -10,6 +12,9 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "vadimcn.vscode-lldb",
+    "fill-labs.dependi",
+    "tamasfe.even-better-toml",
+    "rust-lang.rust-analyzer"
   ]
 }
