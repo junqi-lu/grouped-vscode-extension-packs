@@ -1,0 +1,15 @@
+{
+  "name": "yet-another-pure-rust-extension-pack",
+  "displayName": "Yet Another Pure Rust Extension Pack",
+  "description": "A pure extension pack for rust",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
