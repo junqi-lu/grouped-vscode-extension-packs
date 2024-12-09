@@ -1,0 +1,44 @@
+{
+  "name": "yet-another-base-extension-pack",
+  "displayName": "Yet Another Base Extension Pack",
+  "description": "Must-have extensions for any workspace",
+  "publisher": "junqi-lu",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junqi-lu/grouped-vscode-extension-packs",
+    "directory": "yet-another-base-extension-pack"
+  },
+  "extensionPack": [ 
+    "ultram4rine.vscode-choosealicense",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "usernamehw.errorlens",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "ms-vscode.hexeditor",
+    "Gruntfuggly.todo-tree",
+    "vscodevim.vim",
+    "esbenp.prettier-vscode",
+    "humao.rest-client",
+    "ms-azuretools.vscode-docker",
+    "janisdd.vscode-edit-csv",
+    "tamasfe.even-better-toml",
+    "mhutchie.git-graph",
+    "GitHub.vscode-pull-request-github",
+    "RLNT.keep-a-changelog",
+    "James-Yu.latex-workshop",
+    "yzhang.markdown-all-in-one",
+    "yzane.markdown-pdf",
+    "DavidAnson.vscode-markdownlint",
+    "thomanq.math-snippets",
+    "mechatroner.rainbow-csv",
+    "Arjun.swagger-viewer",
+    "foxundermoon.shell-format"
+  ]
+}
