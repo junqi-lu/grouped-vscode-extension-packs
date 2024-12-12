@@ -1,0 +1,26 @@
+{
+  "name": "yet-another-pure-js-ts-extension-pack",
+  "displayName": "Yet Another Pure JS/TS Extension Pack",
+  "description": "A pure extension pack for javascript/typescript",
+  "publisher": "junqi-lu",
+  "version": "0.0.1",
+  "icon": "images/js-svgrepo-com.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junqi-lu/grouped-vscode-extension-packs.git",
+    "directory": "yet-another-pure-js-ts-extension-pack"
+  },
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "christian-kohler.npm-intellisense",
+    "Vue.volar",
+    "hollowtree.vue-snippets",
+    "dbaeumer.vscode-eslint",
+    "xabikos.JavaScriptSnippets"
+  ]
+}
