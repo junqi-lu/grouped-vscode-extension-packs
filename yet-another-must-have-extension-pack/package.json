@@ -1,8 +1,9 @@
 {
-  "name": "yet-another-base-extension-pack",
-  "displayName": "Yet Another Base Extension Pack",
+  "name": "yet-another-must-have-extension-pack",
+  "displayName": "Another Must Have Extension Pack",
   "description": "Must-have extensions for any workspace",
   "publisher": "junqi-lu",
+  "icon": "images/tool-box-1-svgrepo-com.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
@@ -12,8 +13,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/junqi-lu/grouped-vscode-extension-packs",
-    "directory": "yet-another-base-extension-pack"
+    "url": "https://github.com/junqi-lu/grouped-vscode-extension-packs.git",
+    "directory": "yet-another-must-have-extension-pack"
   },
   "extensionPack": [ 
     "ultram4rine.vscode-choosealicense",
