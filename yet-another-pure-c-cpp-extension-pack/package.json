@@ -1,0 +1,24 @@
+{
+  "name": "yet-another-pure-c-cpp-extension-pack",
+  "displayName": "Yet Another Pure C/CPP Extension Pack",
+  "description": "A pure extension pack for c/cpp",
+  "publisher": "junqi-lu",
+  "icon": "images/cpp3-svgrepo-com.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junqi-lu/grouped-vscode-extension-packs.git",
+    "directory": "yet-another-pure-c-cpp-extension-pack"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-vscode.cpptools-extension-pack",
+    "twxs.cmake",
+    "vadimcn.vscode-lldb"
+  ]
+}
