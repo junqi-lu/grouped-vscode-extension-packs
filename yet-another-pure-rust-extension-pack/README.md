@@ -1,5 +1,7 @@
 # Yet Another Pure Rust Extension Pack
 
+see [why group](https://github.com/junqi-lu/grouped-vscode-extension-packs/blob/main/README.md).
+
 ## Extensions
 
 * **CodeLLDB**: Provides debugging support for Rust and C++ in VSCode using LLDB. [GitHub](https://github.com/vadimcn/codelldb)

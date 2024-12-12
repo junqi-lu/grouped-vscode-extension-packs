@@ -2,12 +2,18 @@
   "name": "yet-another-pure-rust-extension-pack",
   "displayName": "Yet Another Pure Rust Extension Pack",
   "description": "A pure extension pack for rust",
+  "publisher": "junqi-lu",
   "version": "0.0.1",
   "icon": "images/file-type-rust-toolchain.png",
-  "publisher": "junqi-lu",
   "engines": {
     "vscode": "^1.95.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junqi-lu/grouped-vscode-extension-packs.git",
+    "directory": "yet-another-pure-rust-extension-pack"
+  },
+  "homepage": "https://github.com/junqi-lu/grouped-vscode-extension-packs#readme",
   "categories": [
     "Extension Packs"
   ],

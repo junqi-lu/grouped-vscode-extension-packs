@@ -4,6 +4,8 @@ All notable changes to the "yet-another-pure-rust-extension-pack" extension pack
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.1] - 2024-12-12
+
+### Added
 
 - Initial release
