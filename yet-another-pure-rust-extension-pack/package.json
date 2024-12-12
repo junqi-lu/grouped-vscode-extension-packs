@@ -3,7 +3,7 @@
   "displayName": "Yet Another Pure Rust Extension Pack",
   "description": "A pure extension pack for rust",
   "publisher": "junqi-lu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/file-type-rust-toolchain.png",
   "engines": {
     "vscode": "^1.95.0"
