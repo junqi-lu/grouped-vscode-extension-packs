@@ -1,0 +1,30 @@
+{
+  "name": "pure-python-extension-pack",
+  "displayName": "Yet Another Pure Python Extension Pack",
+  "publisher": "junqi-lu",
+  "description": "An extension pack for purely python",
+  "version": "0.1.2",
+  "icon": "images/python-logo-only.png",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junqi-lu/grouped-vscode-extension-packs.git",
+    "directory": "yet-another-pure-python-extension-pack"
+  },
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.mypy-type-checker",
+    "ms-python.debugpy",
+    "ms-toolsai.jupyter",
+    "charliermarsh.ruff",
+    "gaogaotiantian.viztracer-vscode",
+    "njpwerner.autodocstring",
+    "ms-toolsai.datawrangler"
+  ]
+}

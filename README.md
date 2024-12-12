@@ -1,5 +1,7 @@
 # Why group?
 
+[English](README.md) | [简体中文](README-zh.md)
+
 The extension pack in this repository will only add extensions that are strongly associated with specified programming languages,
 so that users can disable the relevant extensions with one click when needed.
 
