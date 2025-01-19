@@ -4,7 +4,7 @@
   "description": "Must-have extensions for any workspace",
   "publisher": "junqi-lu",
   "icon": "images/tool-box-1-svgrepo-com.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -30,8 +30,6 @@
     "ms-azuretools.vscode-docker",
     "janisdd.vscode-edit-csv",
     "tamasfe.even-better-toml",
-    "mhutchie.git-graph",
-    "GitHub.vscode-pull-request-github",
     "RLNT.keep-a-changelog",
     "James-Yu.latex-workshop",
     "yzhang.markdown-all-in-one",
@@ -40,6 +38,9 @@
     "thomanq.math-snippets",
     "mechatroner.rainbow-csv",
     "Arjun.swagger-viewer",
-    "foxundermoon.shell-format"
+    "foxundermoon.shell-format",
+    "vsls-contrib.gistfs",
+    "eamodio.gitlens",
+    "github.vscode-github-actions"
   ]
 }
